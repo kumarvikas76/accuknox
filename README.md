@@ -11,5 +11,5 @@ This project is a Django-based API for managing user authentication, user search
 ## Installation
 
 Follow these steps to set up and run the project locally using Docker
-git clone 
+git clone https://github.com/kumarvikas76/accuknox.git
 docker-compose up --build
