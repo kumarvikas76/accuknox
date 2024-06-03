@@ -6,8 +6,6 @@ This project is a Django-based API for managing user authentication, user search
 - Search users by email or name
 - Send, accept, reject friend requests
 - List friends and pending friend requests
-- Upload documents
-
 ## Installation
 
 Follow these steps to set up and run the project locally using Docker
